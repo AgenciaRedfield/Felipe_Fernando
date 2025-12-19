@@ -120,7 +120,7 @@ Liderei projetos críticos para diversas **Câmaras Municipais**, focando em seg
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=007BFF&height=30&section=footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/AgenciaRedfield/Felipe_Fernando/refs/heads/main/logo-gd.png" width="20%" />
   <p><i>"Transformando o Setor Público e Empresas através da Tecnologia e Inteligência Artificial."</i></p>
   <b>GD Desenvolvimento ®</b>
 </div>
