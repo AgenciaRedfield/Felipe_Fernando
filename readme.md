@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=007BFF&height=250&section=header&text=Felipe%20Fernando&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://raw.githubusercontent.com/AgenciaRedfield/Felipe_Fernando/refs/heads/main/logo-gd.png" width="100%" />
 </div>
 
 <p align="center">
