@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AgenciaRedfield/Felipe_Fernando/refs/heads/main/logo-gd.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/AgenciaRedfield/Felipe_Fernando/refs/heads/main/logo-gd.png" width="50%" />
 </div>
 
 <p align="center">
