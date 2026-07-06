@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <a href="https://gddesenvolvimento.xyz" target="_blank">
+  <a href="https://gddsistemas.com.br" target="_blank">
     <img src="https://img.shields.io/badge/GD_Desenvolvimento-007BFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
@@ -109,10 +109,10 @@ Liderei projetos críticos para diversas **Câmaras Municipais**, focando em seg
 ### 📫 Vamos conversar?
 
 <div align="center">
-  <a href="mailto:contato@gddesenvolvimento.xyz">
+  <a href="mailto:contato@gdsistemas.com.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/551196001859" target="_blank">
+  <a href="https://wa.me/5511947331215" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
